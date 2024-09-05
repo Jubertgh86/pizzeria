@@ -77,7 +77,7 @@ class _FinalizarPageState extends State<FinalizarPage> {
               pw.Row(
                 mainAxisAlignment: pw.MainAxisAlignment.end,
                 children: [
-                  pw.Text('TOTAL = ',
+                  pw.Text('TOTAL =  RD\$',
                       style: pw.TextStyle(fontWeight: pw.FontWeight.bold)),
                   pw.Text('122,559',
                       style: pw.TextStyle(fontWeight: pw.FontWeight.bold)),
